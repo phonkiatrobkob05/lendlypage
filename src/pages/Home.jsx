@@ -46,13 +46,8 @@ function Home() {
                     <div className='flex flex-row items-center gap-4'>
                         <div className='flex flex-col items-center gap-4 pt-4'>
                             <h1>Goes To our Website </h1>
-                            <a className='alink' href="https://fordeploylendly.vercel.app/">Click here</a>
-                            <img src="/qrcode.png" alt="" width={150} height={150} />
-                        </div>
-                        <div className='flex flex-col items-center gap-4 pt-4'>
-                            <h1>Download </h1>
-                            <a className='alink' href="https://ai2.appinventor.mit.edu/b/250r6">Download here</a>
-                            <img src="/mitappdownload.png" alt="" width={150} height={150} />
+                            <a className='alink' href="https://vercellendly.vercel.app/">Click here</a>
+                            <img src="/vercellendly.png" alt="" width={150} height={150} />
                         </div>
                     </div>
                 </section>
