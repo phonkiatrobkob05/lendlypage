@@ -46,8 +46,8 @@ function Home() {
                     <div className='flex flex-row items-center gap-4'>
                         <div className='flex flex-col items-center gap-4 pt-4'>
                             <h1>Goes To our Website </h1>
-                            <a className='alink' href="https://lendlyofficial.vercel.app/">Click here</a>
-                            <img src="/lendlyqrmini.png   " alt="" width={150} height={150} />
+                            <a className='alink' href="https://fordeploylendly.vercel.app/">Click here</a>
+                            <img src="/qrcode.png" alt="" width={150} height={150} />
                         </div>
                         <div className='flex flex-col items-center gap-4 pt-4'>
                             <h1>Download </h1>
