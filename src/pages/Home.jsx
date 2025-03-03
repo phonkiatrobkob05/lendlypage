@@ -108,7 +108,7 @@ function Home() {
                             <SwiperSlide>
                                 <Card
                                     image="/ongsapic.jpg"
-                                    name="Ongsa"
+                                    name="Weerapat Sangarun"
                                     description="66010781"
                                     caption="Meongmangkorn"
                                 />
@@ -124,7 +124,7 @@ function Home() {
                             <SwiperSlide>
                                 <Card
                                     image="/fem.webp"
-                                    name="Fem"
+                                    name="Thitipan Sornkhot"
                                     description="66011344"
                                     caption="FemFuw"
                                 />
