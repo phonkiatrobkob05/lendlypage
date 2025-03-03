@@ -46,12 +46,12 @@ function Home() {
                         <div className='flex flex-col items-center gap-4 pt-4'>
                             <h1>Goes To our Website </h1>
                             <a className='alink' href="https://lendlyofficial.vercel.app/">Click here</a>
-                            <img src="public/lendlyqrmini.png   " alt="" width={200} height={200} />
+                            <img src="/lendlyqrmini.png   " alt="" width={200} height={200} />
                         </div>
                         <div className='flex flex-col items-center gap-4 pt-4'>
                             <h1>Download </h1>
                             <a className='alink' href="https://ai2.appinventor.mit.edu/b/250r6">Download here</a>
-                            <img src="public/mitappdownload.png" alt="" width={200} height={200} />
+                            <img src="/mitappdownload.png" alt="" width={200} height={200} />
                         </div>
                     </div>
                 </section>
@@ -144,12 +144,12 @@ function Home() {
                     <p className="text-center mt-2 p-4">Get in touch with us.</p>
                     <div className='flex flex-col gap-2'>
                         <div className='flex items-center gap-4'>
-                            <img src="public/mailsicon.svg" alt="" />
+                            <img src="/mailsicon.svg" alt="" />
 
                             <p>lendlyofficial@gmail.com</p>
                         </div>
                         <div className='flex items-center gap-4'>
-                            <img src="public/telephoneicon.svg" alt="" />
+                            <img src="/telephoneicon.svg" alt="" />
                             <p>062-XXXX-XXX</p>
                         </div>
                        
