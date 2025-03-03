@@ -35,11 +35,12 @@ function Home() {
                 </section>
                 {/* Section 2 */}
 
-                <section id="About" className="flex flex-col items-center py-18  text-center gap-4 bg-greay-200">
+                <section id="About" className="flex flex-col items-center py-18  text-center gap-4 bg-gray-200">
                     <div className="text-center flex  items-center gap-4 font-bold">
                         <img src="/lendlylogo.svg" alt="lendylogo" />
-                        <h1>Lendly คืออะไร Lendy คือ Application <br />สำหรับการใช้ยืมและให้ยืมสิ่งของ
-                            ที่ต้องการปล่อยเช่า
+                        <h1>Lendly คืออะไร Lendly คือ Application <br />สำหรับการขอยืมและให้ยืมสิ่งของ <br />
+                        
+                            ที่ต้องการปล่อยเช่าหรือต้องการเช่า
                         </h1>
                     </div>
                     <div className='flex flex-row items-center gap-4'>
