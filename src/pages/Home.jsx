@@ -19,7 +19,7 @@ function Home() {
             {/* Main Content with Top Padding */}
             <main className="pt-4">
                 {/* Section 1 */}
-                <section id="Header" className="flex flex-col items-center py-18">
+                <section id="Header" className="flex flex-col items-center py-18 bg-white">
                     <div className="text-center flex flex-col items-center p-4">
                         {/* Image */}
                         <img src="/sharingpic.svg" alt="sharingpic" className="w-64 mx-auto mb-4" />
@@ -39,7 +39,7 @@ function Home() {
                     <div className="text-center flex  items-center gap-4 font-bold">
                         <img src="/lendlylogo.svg" alt="lendylogo" />
                         <h1>Lendly คืออะไร Lendly คือ Application <br />สำหรับการขอยืมและให้ยืมสิ่งของ <br />
-                        
+
                             ที่ต้องการปล่อยเช่าหรือต้องการเช่า
                         </h1>
                     </div>
@@ -47,19 +47,19 @@ function Home() {
                         <div className='flex flex-col items-center gap-4 pt-4'>
                             <h1>Goes To our Website </h1>
                             <a className='alink' href="https://lendlyofficial.vercel.app/">Click here</a>
-                            <img src="/lendlyqrmini.png   " alt="" width={200} height={200} />
+                            <img src="/lendlyqrmini.png   " alt="" width={150} height={150} />
                         </div>
                         <div className='flex flex-col items-center gap-4 pt-4'>
                             <h1>Download </h1>
                             <a className='alink' href="https://ai2.appinventor.mit.edu/b/250r6">Download here</a>
-                            <img src="/mitappdownload.png" alt="" width={200} height={200} />
+                            <img src="/mitappdownload.png" alt="" width={150} height={150} />
                         </div>
                     </div>
                 </section>
 
 
                 {/* Section 3 */}
-                <section id="" className="flex flex-col items-center py-16  gap-4">
+                <section id="" className="flex flex-col items-center py-16  gap-4 bg-white">
                     {/* <div className='flex flex-col items-center'>
                         <h2 className="text-xl font-semibold">Lendly Features</h2>
                         <p className="text-center mt-2">Feature การใช้งานของเรามีดังนี้</p>
@@ -140,7 +140,7 @@ function Home() {
                 </section>
 
                 {/* Section 5 */}
-                <section id="Contact" className="flex flex-col items-center py-1">
+                <section id="Contact" className="flex flex-col items-center py-1 bg-white">
                     <h2 className="text-xl font-semibold">Contact</h2>
                     <p className="text-center mt-2 p-4">Get in touch with us.</p>
                     <div className='flex flex-col gap-2'>
